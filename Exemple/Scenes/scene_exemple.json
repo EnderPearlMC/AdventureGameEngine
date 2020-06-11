@@ -1,0 +1,39 @@
+{
+    "bg": {
+        "type": "image",
+        "name": "bg",
+        "x": 0,
+        "x_mode": "pixel",
+        "y": 0,
+        "y_mode": "pixel",
+        "w": 1,
+        "h": 1,
+        "visible": true
+    },
+
+    "back": {
+        "type": "travel_zone",
+        "x": 0,
+        "x_mode": "pixel",
+        "y": 1.5,
+        "y_mode": "screen",
+        "w": 1,
+        "h": 1,
+        "id_to_go": "exemple_2",
+        "cursor": "cursor_step_back",
+        "visible": true
+    },
+
+    "potion": {
+        "type": "object",
+        "img": "potion",
+        "x": 0,
+        "x_mode": "pixel",
+        "y": 0,
+        "y_mode": "pixel",
+        "w": 20,
+        "h": 20,
+        "visible": true
+    }
+
+}
